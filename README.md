@@ -4,6 +4,9 @@ NEU Surface defect classification with ResNet.
 ## Dataset
 [NEU surface defect database](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
 
+> The official website is no longer accessible, please check [this repository]((https://github.com/abin24/Surface-Inspection-defect-detection-dataset)) for data.
+
+
 |          | Dataset     | Classes | Image Size | Total Images         | Train |  Val  |
 |----------|-------------|---------|------------|----------------------|-------|------|
 | 数据集一 | NEU-CLS-64  | 9       | 64 * 64    |   6501                 | 5055  | 1446 | 
